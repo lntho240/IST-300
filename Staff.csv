@@ -1,0 +1,51 @@
+﻿Staff_ID,Staff_lname,staff_fname,position,salary, staff_email,staff_street,staff_city, staff_zip, staff_phone, Loc_ID
+1,Berry,Jean,Regional Manager,$6675.87,su@fo.mv,Judpos Place,Uduobfu,48604,(287) 718-2575,HQ01
+2,McCoy,Gregory, Customer Service Representative,$6882.60,salehes@magnuhmar.ki,Pobade Center,Kuipoop,41010,(744) 725-2939,B004
+3,Nichols,Phillip,Sales Representative,$7639.97,posin@ta.mp,Zapave Road,Cokhozawo,61694,(279) 453-1432,HQ01
+4,Lopez,Agnes,Warehouse Manager,$8973.41,rid@vehvizep.bv,Benji Boulevard,Kiwjecu,82080,(665) 385-8814,W002
+5,Tate,Harvey,Store Manager,$1445.26,irademav@jugjo.mq,Zecwol River,Jusopiw,52817,(424) 514-8917,B004
+6,Flowers,Gabriel,Barista,$6663.78,dutdor@gi.bg,Tirna View,Lasuzmi,68400,(979) 704-5473,C001
+7,Wagner,Dominic,Bookseller,$1571.54,veh@hakihe.pw,Mozvo Terrace,Toosehi,02262,(956) 679-4604,B001
+8,Bass,Tom,Barista,$3495.59,wep@nohdo.tv,Govsa Court,Gakzium,75808,(975) 223-8988,C001
+9,Douglas,Lillian,Store Manager,$3280.74,aveid@peid.sy,Herut Point,Pazagu,56488,(536) 502-5834,B001
+10,Baldwin,Mattie,Bookseller,$4925.86,wetog@fekatew.ro,Leluf Road,Ifagze,06133,(949) 506-3926,B004
+11,Guzman,Maud, Customer Service Representative,$6044.16,peugupum@re.lv,Nubif Court,Naboago,91738,(512) 471-8439,B003
+12,Ferguson,Lucille,Bookseller,$1503.14,tifvaj@fojpuhe.ao,Ocama Plaza,Opdodo,37805,(552) 732-6290,B003
+13,Ellis,Ann,Clerk,$2394.46,hir@juh.me,Nicu Manor,Viwtuwrov,01024,(500) 391-4586,B001
+14,Webster,Belle,Clerk,"$7,500.47 ",bomjit@ehgu.se,Pivuw Center,Boleej,11806,(370) 538-7409,B004
+15,Hoffman,Logan,Store Manager,$9314.43,heno@sezcul.jm,Hedaf Ridge,Fawipa,80979,(565) 732-8848,B003
+16,Vega,Albert,Bookseller,$4603.14,gemwihjem@pun.tf,Govwu Loop,Nortako,07642,(838) 495-3929,B002
+17,Jimenez,Corey,Clerk,$6855.91,daztob@alfeeg.mt,Wezomo Turnpike,Daswumu,92649,(835) 218-3951,B003
+18,Berry,Nell,Sales Representative,$1354.65,jasev@celaf.mz,Icla Center,Cimefe,37091,(423) 670-1539,B002
+19,Hart,Owen,Sales Representative,$5909.85,ribudag@bi.pr,Jirhop Way,Vuzafdez,15125,(778) 995-3455,B002
+20,Swanson,Leah, Warehouse Worker,$9341.15,dar@coska.an,Ocedu Road,Nimara,79821,(917) 349-6068,W001
+21,Massey,Lela,Barista,$3693.71,ro@obinilic.no,Huvwo Street,Jotodep,79347,(202) 547-4993,C001
+22,Wong,Marc,Sales Representative,"$5,606.81 ",iwpujfoj@posame.ls,Ujaza Pass,Majsecfob,47100,(942) 901-2485,B003
+23,Carter,Fred,Sales Representative,$2914.68,sa@haknezvo.sg,Range Avenue,Tossehi,37855,(775) 520-1908,B002
+24,Ferguson,Johnny,Sales Representative,$9556.23,ajo@bakmongo.as,Ubege Junction,Carobeje,67878,(318) 532-1622,HQ01
+25,Reid,Lillian,Clerk,$8321.89,lolfumi@ziduzkig.sv,Akuta Place,Daudto,38646,(714) 750-2299,B002
+26,Hansen,Amy,Store Manager,$6781.13,ohcuir@pofmab.mz,Pali Loop,Vahojhe,36779,(976) 761-1437,C001
+27,Tate,Benjamin,Clerk,$9931.50,evrac@hed.mw,Weba Ridge,Pehovda,84817,(400) 589-2351,B002
+28,Sims,Brandon, Warehouse Worker,$1360.82,lu@gampenhad.gf,Kanag Center,Hujvodaze,59963,(566) 538-5132,W002
+29,McKenzie,Curtis, Warehouse Worker,$6525.89,odianej@not.al,Metut Circle,Tigibot,49693,(855) 498-1996,W001
+30,Murphy,Herman,Barista,$8072.89,tokiba@cem.lu,Josa Street,Fedlanfih,05820,(602) 414-4290,C001
+31,Graham,Harold,Sales Representative,$5718.09,beh@olcomof.bq,Ozegum Circle,Kiireko,26206,(813) 827-2280,B004
+32,Perez,Hester,Warehouse Manager,$3031.33,avomdi@von.bf,Rigab Drive,Bohanodi,91668,(252) 921-4983,W001
+33,Newton,Mabelle,Store Manager,$4573.65,gozroj@te.ml,Rapub Drive,Zeduci,15185,(566) 673-4007,B002
+34,Clayton,Elmer,Barista,$3985.93,zarfadrif@zofmebev.tp,Mahti Drive,Wifossac,65196,(982) 525-9467,C001
+35,Ball,Winifred, Customer Service Representative,"$4,058.72 ",apajuweh@neir.tv,Fohla Circle,Koijufa,92298,(220) 848-6954,B002
+36,George,Jerome,Clerk,"$6,088.52 ",wornuh@ih.vg,Ipkal View,Aklegpeh,08975,(915) 351-6654,B003
+37,Moran,Ida,Clerk,$4260.70,winiwoju@momonzi.lv,Gundin Terrace,Noutlif,14879,(818) 826-5937,B003
+38,Saunders,Christina, Customer Service Representative,$9828.36,joikese@amo.zw,Decna Turnpike,Etopaug,79579,(416) 303-8009,B003
+39,Adams,Theresa, Warehouse Worker,$8997.51,cewga@ka.bi,Popca Terrace,Kesowtu,85497,(968) 552-8913,W001
+40,Gregory,Iva,Barista,$9069.37,rutnuwow@juwanmi.ee,Zewhe Path,Goptuve,02727,(386) 947-8338,C001
+41,Christensen,Vera,Clerk,"$9,206.30 ",gavman@baw.sa,Weglun Place,Mornutit,30005,(565) 474-9250,B003
+42,Olson,Samuel,Bookseller,$3813.31,me@rug.ir,Piweg Center,Kaccuek,01302,(289) 889-2074,B003
+43,Lawrence,Nathaniel,Clerk,$8733.73,ugicarpab@ivu.il,Zote Avenue,Pijkubkul,52063,(838) 533-6210,C001
+44,McKenzie,Billy, Warehouse Worker,$8239.34,boge@cohano.gs,Howpo Center,Imakinon,88768,(975) 942-4544,W001
+45,Watts,Seth,Bookseller,"$6,064.73 ",uriwa@izre.my,Ajomo Road,Mempozfi,76380,(872) 229-8533,B003
+46,Gilbert,Cecelia,Bookseller,$4803.29,zec@cicje.cv,Momu Parkway,Danewruf,21806,(383) 593-8396,B003
+47,Holloway,Mathilda, Warehouse Worker,$1648.99,boba@tasfoj.sk,Isorok Extension,Cuwudo,65612,(811) 644-3349,W002
+48,McKinney,Birdie,Sales Representative,$4558.18,mokjij@fefo.tw,Kusos Trail,Pulleim,59183,(811) 416-7203,B003
+49,Underwood,Lilly, Warehouse Worker,"$3,800.23 ",kemez@tacas.am,Edjod Boulevard,Kevgoru,06238,(621) 457-2450,W002
+50,Baker,Madge, Warehouse Worker,$4534.74,tubof@foh.tw,Bedde Plaza,Toozilu,04344,(756) 338-7006,W002
