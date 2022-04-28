@@ -1,51 +1,51 @@
 Book_ID , barcode,author1_lname,author1_fname,author2_lname,author2_fname,author3_lname,author3_fname,Title,Publisher,ISBN 13,Edition,page_count,date_of_publication
-1,211544252,Maas,Sarah,,,,,Throne of Glass,Bloomsbury Children's Books,9.78162E+12,1,260,9/2/1980
-2,132392886,Maas,Sarah,,,,,The Assassin's Blade ,Bloomsbury Children's Books,9.78162E+12,5,339,9/1/1981
-3,581950819,Maas,Sarah,,,,,Crown of Midnight,Bloomsbury Children's Books,9.78162E+12,1,999,4/4/1982
-4,928463461,Maas,Sarah,,,,,Heir of Fire,Bloomsbury Children's Books,9.78162E+12,5,692,2/28/1983
-5,226414025,Maas,Sarah,,,,,Queen of Shadows,Bloomsbury Children's Books,9.78162E+12,7,814,4/23/1983
-6,643346025,Maas,Sarah,,,,,Empire of Storms,Bloomsbury Children's Books,9.78162E+12,7,291,4/2/1985
-7,081150322,Maas,Sarah,,,,,Tower of Dawn,Bloomsbury Children's Books,9.78168E+12,9,571,9/15/1985
-8,866149716,Maas,Sarah,,,,,Kingdom of Ash,Bloomsbury Children's Books,9.78162E+12,4,444,4/13/1987
-9,048631770,Maas,Sarah,,,,,A Court of Thorns and Roses ,Bloomsbury Children's Books,9.78162E+12,0,412,10/1/1987
-10,054751399,Maas,Sarah,,,,,A Court of Mist and Fury,Bloomsbury Children's Books,9.78162E+12,6,253,11/30/1989
-11,990225594,Maas,Sarah,,,,,A Court of Wings and Ruin,Bloomsbury Children's Books,9.78162E+12,1,252,1/30/1990
-12,677402587,Maas,Sarah,,,,,A Court of Frost and Starlight,Bloomsbury Children's Books,9.78155E+12,5,716,7/20/1991
-13,933635319,Maas,Sarah,,,,,Catwoman: Soulstealer,Random House,9.7804E+12,4,507,4/6/1996
-14,939956580,Bardugo,Leigh,,,,,Wonder Woman: Warbringer,Random House,9.7804E+12,7,798,10/24/1996
-15,374487178,Terry,Terri,,,,,Slated,Scholastic Inc.,9.78055E+12,8,677,6/13/1998
-16,647296528,Terry,Terri,,,,,Shattered,Scholastic Inc.,9.78055E+12,2,077,6/30/2000
-17,536038880,Terry,Terri,,,,,Fractured,Scholastic Inc.,9.78055E+12,4,916,10/6/2000
-18,068163006,Chokshi,Roshani,,,,,The Star-Touched Queen,St Martin's Press,9.78125E+12,5,960,10/2/2002
-19,885017367,Solzhenitsyn,Alexander,,,,,One Day in the life of Ivan Denisovich,Must Have Books,9.87177E+12,7,448,10/3/2002
-20,763884379,Kraus,Daniel,,,,,The Death and Life of Zebulon Finch,Simon & Schuster,9.78148E+12,1,887,1/17/2006
-21,150986994,Stork,Francisco,,,,,The Memory of Light,Scholastic Inc.,9.78134E+12,4,736,7/20/2012
-22,959069890,Bronte,Charlotte,,,,,Jane Eyre,Arcturus Publishing,9.78179E+12,6,930,1/14/2015
-23,840584742,Zappia,Francesca,,,,,Eliza and Her Monsters,Harper Collins,9.78006E+12,9,375,6/19/2016
-24,726950279,Han,Jenny,,,,,To All the Boys I've Loved Before,Simon & Schuster,9.87144E+12,3,869,5/6/2017
-25,358921452,Yousafzai,Malala,,,,,I am Malala,Bay Back Books,9.78032E+12,2,933,10/30/2019
-26,217339202,Goodman,Alison,,,,,The Dark Days Club,Random House,9.78067E+12,8,663,10/6/1983
-27,210994080,Stewart,Amy,,,,,Wicked Plants: The Weed that killed Lincoln's Mother and Other Botantical Atrocities ,Alogonquin Books,9.78157E+12,5,482,9/27/1986
-28,704600506,Reichs,Kathy,,,,,Virals,Scholastic Inc.,9.78055E+12,8,931,2/9/1988
-29,208383662,Johnston,E.K.,,,,,A Thousand Nights,Hyperion,9.78148E+12,5,867,4/18/1991
-30,354777510,Reed,Amy,,,,,"Our Stories, Our Voices",Simon & Schuster,9.78153E+12,6,716,1/22/1993
-31,172414900,Northup,Solomon,,,,,12 Years a Slave,Random House,9.78014E+12,2,860,6/17/1994
-32,350966029,Carter,Ally,,,,,Heist Society ,Scholastic Inc.,9.78055E+12,8,535,10/9/1994
-33,108570397,Austen,Jane,,,,,Pride and Prejudice,Barnes and Nobles Books,9.78159E+12,2,751,5/14/1997
-34,103587995,Cawthorne,Nigel,,,,,Tesla: The Life and Times of an Electric Messiah,Chartwell Books,9.78079E+12,7,874,9/19/1998
-35,141845337,Zappia,Francesca,,,,,Made You Up,Harper Collins,9.78006E+12,6,565,12/19/1999
-36,321549324,Omar,Qais,,,,,A Fort of Nine Towers,Macmillian Books,9.78037E+12,4,220,6/28/2004
-37,028331157,Bardugo,Leigh,,,,,Six of Crows,Henry Holt,9.78163E+12,7,320,5/2/2005
-38,486634485,Barnes,Jennifer,,,,,The Naturals,Hachette Book Group,9.78142E+12,5,939,6/15/2006
-39,104122472,Barnes,Jennifer,,,,,Killer Instinct,Hachette Book Group,9.78142E+12,8,833,10/27/2006
-40,120980601,Patterson,James,,,,,Confessions of a Murder Suspect,Hachette Book Group,9.78032E+12,1,352,4/14/2008
-41,203536649,Clare,Cassandra,,,,,City of Bones,Margaret K. McElderry Books,9.78142E+12,8,532,6/4/2008
-42,066332401,Clare,Cassandra,,,,,City of Ashes,Margaret K. McElderry Books,9.78142E+12,6,435,3/11/2012
-43,131507668,Clare,Cassandra,,,,,City of Glass,Margaret K. McElderry Books,9.78142E+12,8,582,10/7/2012
-44,521036251,Clare,Cassandra,,,,,City of Fallen Angels,Margaret K. McElderry Books,9.78144E+12,5,516,11/23/2012
-45,329262206,Clare,Cassandra,,,,,City of Lost Souls,Margaret K. McElderry Books,9.78144E+12,4,147,3/9/2014
-46,945552910,Clare,Cassandra,,,,,City of Heavenly Fire,Margaret K. McElderry Books,9.78148E+12,3,460,8/16/2014
-47,534932978,Clare,Cassandra,,,,,Clockwork Angel,Margaret K. McElderry Books,9.78142E+12,4,836,4/16/2015
-48,731202085,Clare,Cassandra,,,,,Clockwork Prince,Margaret K. McElderry Books,9.78142E+12,2,181,6/23/2017
-49,051389242,Clare,Cassandra,,,,,Lady Mignight,Margaret K. McElderry Books,9.78144E+12,6,706,11/26/2018
-50,331974516,Clare,Cassandra,,,,,Lord of Shadows,Margaret K. McElderry Books,9.78144E+12,8,703,4/16/2020
+1,211544252,Maas,Sarah,,,,,Throne of Glass,Bloomsbury Children's Books,9781619630345,1,260,9/2/1980
+2,132392886,Maas,Sarah,,,,,The Assassin's Blade ,Bloomsbury Children's Books,9781619633612,5,339,9/1/1981
+3,581950819,Maas,Sarah,,,,,Crown of Midnight,Bloomsbury Children's Books,9781619630628,1,999,4/4/1982
+4,928463461,Maas,Sarah,,,,,Heir of Fire,Bloomsbury Children's Books,9781619630659,5,692,2/28/1983
+5,226414025,Maas,Sarah,,,,,Queen of Shadows,Bloomsbury Children's Books,9781619636040,7,814,4/23/1983
+6,643346025,Maas,Sarah,,,,,Empire of Storms,Bloomsbury Children's Books,9781619636071,7,291,4/2/1985
+7,81150322,Maas,Sarah,,,,,Tower of Dawn,Bloomsbury Children's Books,9781681195773,9,571,9/15/1985
+8,866149716,Maas,Sarah,,,,,Kingdom of Ash,Bloomsbury Children's Books,9781619636101,4,444,4/13/1987
+9,48631770,Maas,Sarah,,,,,A Court of Thorns and Roses ,Bloomsbury Children's Books,9781619634442,0,412,10/1/1987
+10,54751399,Maas,Sarah,,,,,A Court of Mist and Fury,Bloomsbury Children's Books,9781619634466,6,253,11/30/1989
+11,990225594,Maas,Sarah,,,,,A Court of Wings and Ruin,Bloomsbury Children's Books,9781619634480,1,252,1/30/1990
+12,677402587,Maas,Sarah,,,,,A Court of Frost and Starlight,Bloomsbury Children's Books,9781547600359,5,716,7/20/1991
+13,933635319,Maas,Sarah,,,,,Catwoman: Soulstealer,Random House,9780399549694,4,507,4/6/1996
+14,939956580,Bardugo,Leigh,,,,,Wonder Woman: Warbringer,Random House,9780399549731,7,798,10/24/1996
+15,374487178,Terry,Terri,,,,,Slated,Scholastic Inc.,9780545675857,8,677,6/13/1998
+16,647296528,Terry,Terri,,,,,Shattered,Scholastic Inc.,9780545853675,2,77,6/30/2000
+17,536038880,Terry,Terri,,,,,Fractured,Scholastic Inc.,9780545790871,4,916,10/6/2000
+18,68163006,Chokshi,Roshani,,,,,The Star-Touched Queen,St Martin's Press,9781250085474,5,960,10/2/2002
+19,885017367,Solzhenitsyn,Alexander,,,,,One Day in the life of Ivan Denisovich,Must Have Books,9871773236131,7,448,10/3/2002
+20,763884379,Kraus,Daniel,,,,,The Death and Life of Zebulon Finch,Simon & Schuster,9781481411394,1,887,1/17/2006
+21,150986994,Stork,Francisco,,,,,The Memory of Light,Scholastic Inc.,9781338032963,4,736,7/20/2012
+22,959069890,Bronte,Charlotte,,,,,Jane Eyre,Arcturus Publishing,9781785996320,6,930,1/14/2015
+23,840584742,Zappia,Francesca,,,,,Eliza and Her Monsters,Harper Collins,9780062290137,9,375,6/19/2016
+24,726950279,Han,Jenny,,,,,To All the Boys I've Loved Before,Simon & Schuster,9871442426702,3,869,5/6/2017
+25,358921452,Yousafzai,Malala,,,,,I am Malala,Bay Back Books,9780316322423,2,933,10/30/2019
+26,217339202,Goodman,Alison,,,,,The Dark Days Club,Random House,9780670785476,8,663,10/6/1983
+27,210994080,Stewart,Amy,,,,,Wicked Plants: The Weed that killed Lincoln's Mother and Other Botantical Atrocities ,Alogonquin Books,9781565126831,5,482,9/27/1986
+28,704600506,Reichs,Kathy,,,,,Virals,Scholastic Inc.,9780545398794,8,931,2/9/1988
+29,208383662,Johnston,E.K.,,,,,A Thousand Nights,Hyperion,9781484722275,5,867,4/18/1991
+30,354777510,Reed,Amy,,,,,"Our Stories, Our Voices",Simon & Schuster,9781534408999,6,716,1/22/1993
+31,172414900,Northup,Solomon,,,,,12 Years a Slave,Random House,9780143125419,2,860,6/17/1994
+32,350966029,Carter,Ally,,,,,Heist Society ,Scholastic Inc.,9780545417082,8,535,10/9/1994
+33,108570397,Austen,Jane,,,,,Pride and Prejudice,Barnes and Nobles Books,9781593082017,2,751,5/14/1997
+34,103587995,Cawthorne,Nigel,,,,,Tesla: The Life and Times of an Electric Messiah,Chartwell Books,9780785829447,7,874,9/19/1998
+35,141845337,Zappia,Francesca,,,,,Made You Up,Harper Collins,9780062290106,6,565,12/19/1999
+36,321549324,Omar,Qais,,,,,A Fort of Nine Towers,Macmillian Books,9780374157647,4,220,6/28/2004
+37,28331157,Bardugo,Leigh,,,,,Six of Crows,Henry Holt,9781627792127,7,320,5/2/2005
+38,486634485,Barnes,Jennifer,,,,,The Naturals,Hachette Book Group,9781423168317,5,939,6/15/2006
+39,104122472,Barnes,Jennifer,,,,,Killer Instinct,Hachette Book Group,9781423171829,8,833,10/27/2006
+40,120980601,Patterson,James,,,,,Confessions of a Murder Suspect,Hachette Book Group,9780316231633,1,352,4/14/2008
+41,203536649,Clare,Cassandra,,,,,City of Bones,Margaret K. McElderry Books,9781416955078,8,532,6/4/2008
+42,66332401,Clare,Cassandra,,,,,City of Ashes,Margaret K. McElderry Books,9781416972242,6,435,3/11/2012
+43,131507668,Clare,Cassandra,,,,,City of Glass,Margaret K. McElderry Books,9781416972259,8,582,10/7/2012
+44,521036251,Clare,Cassandra,,,,,City of Fallen Angels,Margaret K. McElderry Books,9781442403543,5,516,11/23/2012
+45,329262206,Clare,Cassandra,,,,,City of Lost Souls,Margaret K. McElderry Books,9781442416864,4,147,3/9/2014
+46,945552910,Clare,Cassandra,,,,,City of Heavenly Fire,Margaret K. McElderry Books,9781481426305,3,460,8/16/2014
+47,534932978,Clare,Cassandra,,,,,Clockwork Angel,Margaret K. McElderry Books,9781416975861,4,836,4/16/2015
+48,731202085,Clare,Cassandra,,,,,Clockwork Prince,Margaret K. McElderry Books,9781416975885,2,181,6/23/2017
+49,51389242,Clare,Cassandra,,,,,Lady Mignight,Margaret K. McElderry Books,9781442468351,6,706,11/26/2018
+50,331974516,Clare,Cassandra,,,,,Lord of Shadows,Margaret K. McElderry Books,9781442468405,8,703,4/16/2020
