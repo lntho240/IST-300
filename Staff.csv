@@ -1,4 +1,4 @@
-﻿Staff_ID,Staff_lname,staff_fname,position,salary, staff_email,staff_street,staff_city, staff_zip, staff_phone, Loc_ID
+﻿Staff_ID,Staff_lname,staff_fname,staff_position,salary, staff_email,staff_street,staff_city, staff_zip, staff_phone, Loc_ID
 1,Berry,Jean,Regional Manager,$6675.87,su@fo.mv,Judpos Place,Uduobfu,48604,(287) 718-2575,HQ01
 2,McCoy,Gregory, Customer Service Representative,$6882.60,salehes@magnuhmar.ki,Pobade Center,Kuipoop,41010,(744) 725-2939,B004
 3,Nichols,Phillip,Sales Representative,$7639.97,posin@ta.mp,Zapave Road,Cokhozawo,61694,(279) 453-1432,HQ01
